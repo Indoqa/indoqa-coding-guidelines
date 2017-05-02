@@ -1,2 +1,2 @@
 # Indoqa Coding Guidelines
-Coding guidelines and tool configuration that implement them
+Coding guidelines and tool configurations that implement them
